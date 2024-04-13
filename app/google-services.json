@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241300643280",
+    "project_id": "applasazon",
+    "storage_bucket": "applasazon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241300643280:android:10f714cd906a943917add5",
+        "android_client_info": {
+          "package_name": "pe.edu.idat.applasazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKssUPuiEt39G3dE53yb99G5BVJ5rq2AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

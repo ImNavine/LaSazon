@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLaSazon</string>
+    <string name="valetusuario">Usuario</string>
+    <string name="valetpassword">Password</string>
+    <string name="valbtningresar">Ingresar</string>
+    <string name="valbtnregistrar">Regístrese Aquí</string>
+    <string name="valcbrecordar">Recordar</string>
+    <string name="valetcorreo">Correo</string>
+</resources>
